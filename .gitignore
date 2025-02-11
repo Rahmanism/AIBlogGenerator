@@ -1,0 +1,42 @@
+# Build files
+bin/
+obj/
+out/
+
+# Test Outputs
+BlogPosts/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and debug
+*.log
+*.tlog
+*.pdb
+
+# NuGet dependencies
+packages/
+*.nupkg
+project.lock.json
+artifacts/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+*.vs/
+
+# Resharper
+_ReSharper*/
+
+# dotnet CLI
+*.db
+
+# OS-specific
+Thumbs.db
+.DS_Store
